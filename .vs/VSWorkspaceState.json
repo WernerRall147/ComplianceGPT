@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\frontend",
+    "\\frontend\\src",
+    "\\frontend\\src\\pages",
+    "\\frontend\\src\\pages\\chat",
+    "\\frontend\\src\\pages\\layout"
+  ],
+  "SelectedNode": "\\frontend\\vite.config.ts",
+  "PreviewInSolutionExplorer": false
+}
