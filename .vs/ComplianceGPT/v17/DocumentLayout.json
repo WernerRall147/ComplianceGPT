@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "frontend\\vite.config.ts",
               "ToolTip": "C:\\Users\\weral\\Git\\ComplianceGPT\\frontend\\vite.config.ts",
               "RelativeToolTip": "frontend\\vite.config.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-01-29T12:39:52.869Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "frontend\\package.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-01-29T12:39:50.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-29T12:39:50.268Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "frontend\\package-lock.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-01-29T12:39:47.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-29T12:39:47.33Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "frontend\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-01-29T12:39:36.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-29T12:39:36.315Z"
             }
           ]
         }
