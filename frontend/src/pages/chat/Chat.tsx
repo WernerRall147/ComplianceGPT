@@ -592,10 +592,9 @@ const fetchChatResponse = async (query: string, searchResults: string): Promise<
     return `Query: ${query}\nSearch Results: ${searchResults}`;
 };
 
-// Define handleSearch function
 const handleSearch = async () => {
     try {
-        const res = await Axios.get(`https://mscompliancefuncbing.azurewebsites.net/api/bingsearchfunc?query=${query}`);
+        const res = await Axios.get(`https://mscompliancefuncbing.azurewebsites.net/api/bingsearchfunc?code=SBmPywLfZpHdLzJFFS_ZSOhDrSeZkD5KaY9N3KDXzjooAzFu2O95GQ%3D%3D&query=${query}`);
         setSearchResults(res.data.message);
 
         // Assuming you have a function to fetch chat response that takes search results into account
